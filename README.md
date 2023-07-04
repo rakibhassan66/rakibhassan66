@@ -103,10 +103,9 @@ Feel free to incorporate these icons into your README and adjust their size or a
 </p>
 
 
-<!-- Ask Me About -->
-## 💬 Ask Me About
 
-Feel free to reach out to me for any kind of assistance related to application problem solving or video editing.
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/rakibhassa9) 
 
 
 
@@ -118,10 +117,9 @@ I am an extrovert who loves meeting new people and building connections. I enjoy
 
 
 
-<div align="center">
-
 
 <!-- Now Playing -->
+<div align="center">
 ## 🎧 Now Playing - Lucky Man > Just click Image to hear it. I bet you would love it.
 
 
@@ -137,6 +135,4 @@ I am an extrovert who loves meeting new people and building connections. I enjoy
 
 
 
-<div align="center">
-    <h1><i>👨‍💻Coding Practice</i></h1>
-</div>
+
