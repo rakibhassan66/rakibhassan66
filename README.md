@@ -33,11 +33,21 @@ Have a wonderful day.</i></b>
 
 
 ## 👨‍💻 Technologies & Tools
-<center>![Technology](https://img.icons8.com/?size=512&id=0dbdoPcVxc3N&format=png)
+<p align="center">
+  <img src="https://img.icons8.com/?size=512&id=0dbdoPcVxc3N&format=png" alt="Technology">
+</p>
+
+
+
+
 
 ##  Technologies & 💼 Skills
 
-- 💻 Operating Systems: Windows, Linux, Debian,  Mint.
+- 💻 Operating Systems:
+     - Windows
+     - Linux
+     - Debian
+     - Mint.
 - 👨‍💻 Programming Languages: 
      - C.
      - Python.
