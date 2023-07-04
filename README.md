@@ -18,16 +18,13 @@ Have a wonderful day.</i></b>
 ## 👾Gihub Start Graph.
 
 
-<!-- Your GitHub stats graph -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibhassan66&show_icons=true)
-
-<!-- Your GitHub streak graph -->
-![Your GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=rakibhassan66)
-
-<!-- Your GitHub languages graph -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhassan66)](https://github.com/rakibhassan66)
-
+<div align="center">
+    <h1>📊 GitHub Stats:</h1>
+    <img src="https://github-readme-stats.vercel.app/api?username=rakibhassan66&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhassan66&theme=nightowl&hide_border=false" alt="Streak Stats" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhassan66&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
+
 
 
 
