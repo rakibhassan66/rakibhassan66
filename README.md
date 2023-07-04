@@ -124,7 +124,7 @@ I am an extrovert who loves meeting new people and building connections. I enjoy
 ## 🎧 Now Playing - Lucky Man > Just click Image to hear it. I bet you would love it.
 
 
-<div align="center">
+
 [![Now Playing](https://img.shields.io/badge/Spotify-Now%20Playing-green?style=flat-square&logo=spotify)](https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF)
 
 <!-- Music System -->
