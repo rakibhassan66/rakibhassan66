@@ -121,20 +121,18 @@ I am an extrovert who loves meeting new people and building connections. I enjoy
 
 
 <!-- Now Playing -->
-<div align="center">
 ## 🎧 Now Playing - Lucky Man > Just click Image to hear it. I bet you would love it.
 
 
-
+<div align="center">
 [![Now Playing](https://img.shields.io/badge/Spotify-Now%20Playing-green?style=flat-square&logo=spotify)](https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF)
 
 <!-- Music System -->
+
+
+
 <p align="center">
   <a href="https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF">
     <img src="https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/02/b2/68/02b268c7-a234-cb8b-7ef3-a774340744eb/17UM1IM02768.rgb.jpg/400x400cc.jpg" width="300" height="300" alt="Now Playing">
   </a>
 </p>
-
-
-
-
