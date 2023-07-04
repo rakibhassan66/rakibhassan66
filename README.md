@@ -33,7 +33,7 @@ Have a wonderful day.</i></b>
 
 
 ## 👨‍💻 Technologies & Tools
-<h1><center>![Technology](https://img.icons8.com/?size=512&id=0dbdoPcVxc3N&format=png)</h1>
+<center>![Technology](https://img.icons8.com/?size=512&id=0dbdoPcVxc3N&format=png)
 
 ##  Technologies & 💼 Skills
 
