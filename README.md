@@ -1,4 +1,3 @@
-
 <!-- Your project title -->
 <h1 align="center">Hello & Assalamualaikum, This is Equarius </h1>
 <h2>Hey there!</h2> </br>
