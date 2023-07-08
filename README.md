@@ -25,10 +25,6 @@ Have a wonderful day.</i></b>
 </p>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rakibhassan66&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 ##  Technologies & 💼 Skills
 
 - 💻 Operating Systems:
@@ -69,6 +65,9 @@ Have a wonderful day.</i></b>
 </p>
 
 <div align="center">
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rakibhassan66&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Working Directory -->
 ## 📁 Working Directory
