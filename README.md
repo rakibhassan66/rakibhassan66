@@ -39,7 +39,7 @@ Have a wonderful day.</i></b>
 - 📝 Shell Script Writing:
      - Bash.
 - 🌐 Website Design and Development:
--    - HTML
+     - HTML
      - CSS
      - JavaScript.
 - 🔐 Reverse Engineering:
