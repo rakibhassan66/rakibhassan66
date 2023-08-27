@@ -1,9 +1,5 @@
-<!-- Your project title -->
-<h1 align="center">Hello & Assalamualaikum, This is Equarius </h1>
-<h2>Hey there!</h2> </br>
-
 <h1 align="center"> 
-     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi%2C+I_am(Equarius)" /> 
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey%2C+This_is(Equarius)" /> 
  </h1> 
    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 <i><b>It seems like today is a quiet rough day for you. Don't worry, I believe there are brighter days ahead.
