@@ -2,13 +2,16 @@
 # 💫 About Me:
 Certainly! Here's the updated section with additional sorting for your expertise in Cyber Security:
 
-🔒 **Cyber Security Specialist:**
+<div align="center">
+
+# 💫 About Me:
+![Cyber Security Specialist](https://img.shields.io/badge/Cyber%20Security%20Specialist-%E2%9A%94%EF%B8%8F-red?style=for-the-badge&logo=security&logoColor=white)
 - Proficient in software, web, and game development.
 - Expertise spans multiple programming languages:
-  - Java
-  - Python
-  - Jupyter
-  - JavaScript
+  - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+  - ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 - Currently mastering Reverse Engineering.
 - Specializations:
   - Reverse Shell user
@@ -21,6 +24,7 @@ Certainly! Here's the updated section with additional sorting for your expertise
 - Enjoys writing for the sheer enjoyment it brings, exploring various topics beyond professional pursuits.
 
 </div>
+
 # 📊 GitHub Stats:
 <div align="center">
 
