@@ -22,12 +22,12 @@
     Web flow defender<br>
 
 📚 **Hobbies and Interests:**<br>
- Passionate reader, particularly interested in cyber-security and technology-related literature.<br>
+ Passionate reader, particularly interested in literature.<br>
  Enjoys writing for the sheer enjoyment it brings, exploring various topics beyond professional pursuits.
 
 </div>
 
-       # 📊 GitHub Stats:
+       ## 📊 GitHub Stats:
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=rakibhassan66&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
