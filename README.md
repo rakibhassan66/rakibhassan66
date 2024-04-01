@@ -1,8 +1,5 @@
 <div align="center">
   <!-- Header -->
-<header class="w3-display-container w3-content w3-center" style="max-width:1500px">
-    <img class="w3-image" src="https://lh3.googleusercontent.com/pw/ADCreHehwM4LUPcfLvn9KtJ--vdwgLRh8nIcvanTM29nax7L52iiyyihfVlwMRv7pjVxI-Gy6mDSCBh_Uiz7ESJ5ySr04VRrUordUkQxAHNzoMpA--Gi8JY=w2400" alt="Me" width="1500" height="600">
-    <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-text-light-grey w3-center">
         <h1 align="center"> 
             <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey%2C+This_is(Equarius)" /> 
         </h1> 
