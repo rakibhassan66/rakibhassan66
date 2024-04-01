@@ -44,8 +44,6 @@
 
 - 📫 How to reach me **https://bio.link/rakibhassan66**
 ## 🎵 Spotify Playlist
-<div align="center">
-<iframe src="https://open.spotify.com/embed/playlist/YourPlaylistID" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qcciqau4mpqalrjmoj23la4swm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
