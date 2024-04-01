@@ -16,14 +16,14 @@
  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 - Currently mastering Reverse Engineering.<br>
 - Specializations:<br>
-  - Reverse Shell user<br>
-  - Bug Hunting<br>
-  - Pen tester<br>
-  - Web flow defender<br>
+    Reverse Shell user<br>
+    Bug Hunting<br>
+    Pen tester<br>
+    Web flow defender<br>
 
 📚 **Hobbies and Interests:**<br>
-- Passionate reader, particularly interested in cyber-security and technology-related literature.<br>
-- Enjoys writing for the sheer enjoyment it brings, exploring various topics beyond professional pursuits.
+ Passionate reader, particularly interested in cyber-security and technology-related literature.<br>
+ Enjoys writing for the sheer enjoyment it brings, exploring various topics beyond professional pursuits.
 
 </div>
 
