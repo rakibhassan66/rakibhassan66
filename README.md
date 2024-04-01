@@ -27,7 +27,7 @@
 
 </div>
 
-# 📊 GitHub Stats:
+       # 📊 GitHub Stats:
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=rakibhassan66&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -40,9 +40,9 @@
 <div align="center">
   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rakibhassan.rh66) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rakibhassan__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/authwall?trk=gf&trkInfo=AQFSCSPznIY9xwAAAY6a0kPYvYLhZkYJ3t-xQoNJrGbyfsv023sUYuBqpYCUGWSLvL5tlphL9knYap0S6-7s5Qo4a69jNeetqvJA9e6MGUtgVG2_9Hg6bPw3DVzIExtqNNYqJMw=&original_referer=https://bio.link/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frakibhassan66) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/rakibhassan66) 
-- 👨‍💻 All of my projects are available at [https://rakibhassan66.w3spaces.com](https://rakibhassan66.w3spaces.com)
+ 👨‍💻 All of my projects are available at [https://rakibhassan66.w3spaces.com](https://rakibhassan66.w3spaces.com)
 
-- 📫 How to reach me **https://bio.link/rakibhassan66**
+ 📫 How to reach me **https://bio.link/rakibhassan66**
 ## 🎵 Spotify Playlist
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qcciqau4mpqalrjmoj23la4swm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
