@@ -6,8 +6,6 @@
 </div>
 <div align="center">
 
-https://github.com/rakibhassan66/rakibhassan66/blob/output/github-contribution-grid-snake.gif
-
 # 💫 About Me:
 ![Cyber Security Specialist](https://img.shields.io/badge/Cyber%20Security%20Specialist-%E2%9A%94%EF%B8%8F-red?style=for-the-badge&logo=security&logoColor=white)<br>
 - Proficient in software, web, and game development.<br>
