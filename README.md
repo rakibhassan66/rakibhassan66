@@ -6,8 +6,8 @@
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rakibhassan66/rakibhassan66/output/github-contribution-grid-snake-dark.svg"><img src="https://raw.githubusercontent.com/ShrekBytes/ShrekBytes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%;"></a>
 
 ##Screenshots:
-![photo_2024-05-08_19-34-55](https://github.com/rakibhassan66/rakibhassan66/assets/72136153/982648fe-71be-4be6-a220-569ca02d7c95)
-![photo_2024-05-08_19-34-47](https://github.com/rakibhassan66/rakibhassan66/assets/72136153/1ec5df63-8e0c-4a45-a2f0-7be9e48e97fe)
+![Screenshot 2024-05-08 204312](https://github.com/rakibhassan66/rakibhassan66/assets/72136153/3cb49b45-165f-41a7-8dfa-3899ffc89005)
+![Screenshot 2024-05-08 204248](https://github.com/rakibhassan66/rakibhassan66/assets/72136153/88fbfcff-e94e-4e8f-a1fe-747f99634704)
           
 </div>
 <div align="center">
