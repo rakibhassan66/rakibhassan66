@@ -7,9 +7,25 @@
           
 </div>
 <div align="center">
-
-# 💫 About This tools:
-<h1>This an application where Bangladeshi Citizens can consume their facilities and receive their responsibility for their country </h1>
+<!-- About Me -->
+    <h2 align="center">💫 About Me:</h2>
+    <p align="center">
+        <img src="https://img.shields.io/badge/Cyber%20Security%20Specialist-%E2%9A%94%EF%B8%8F-red?style=for-the-badge&logo=security&logoColor=white" alt="Cyber Security Specialist">
+    </p>
+    <p align="center">
+        - Proficient in software, web, and game development.<br>
+        - Expertise spans multiple programming languages:<br>
+        ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+        ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+        ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
+        ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+        - Currently mastering Reverse Engineering.<br>
+        - Specializations:<br>
+        &nbsp;&nbsp;&nbsp; Reverse Shell user<br>
+        &nbsp;&nbsp;&nbsp; Bug Hunting<br>
+        &nbsp;&nbsp;&nbsp; Pen tester<br>
+        &nbsp;&nbsp;&nbsp; Web flow defender<br>
+    </p>
 
 📚 **Hobbies and Interests:**<br>
  Passionate reader, particularly interested in literature.<br>
