@@ -8,20 +8,10 @@
 </div>
 <div align="center">
 
-# 💫 About Me:
-![Cyber Security Specialist](https://img.shields.io/badge/Cyber%20Security%20Specialist-%E2%9A%94%EF%B8%8F-red?style=for-the-badge&logo=security&logoColor=white)<br>
-- Proficient in software, web, and game development.<br>
-- Expertise spans multiple programming languages:<br>
-   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
- ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-- Currently mastering Reverse Engineering.<br>
-- Specializations:<br>
-    Reverse Shell user<br>
-    Bug Hunting<br>
-    Pen tester<br>
-    Web flow defender<br>
+# 💫 About This tools:
+<h1>This an application where Bangladeshi Citizens can consume their facilities and receive their responsibility for their country </h1>
+![Screenshot 2024-05-08 204312](https://github.com/rakibhassan66/rakibhassan66/assets/72136153/3cb49b45-165f-41a7-8dfa-3899ffc89005)
+![Screenshot 2024-05-08 204248](https://github.com/rakibhassan66/rakibhassan66/assets/72136153/88fbfcff-e94e-4e8f-a1fe-747f99634704)
 
 📚 **Hobbies and Interests:**<br>
  Passionate reader, particularly interested in literature.<br>
