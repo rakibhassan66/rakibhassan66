@@ -24,6 +24,16 @@
     Pen tester<br>
     Web flow defender<br>
 
+# 📊 GitHub Stats:
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=rakibhassan66&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rakibhassan66&theme=blue-green&hide_border=true)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhassan66&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+
 📚 **Hobbies and Interests:**<br>
  Passionate reader, particularly interested in cyber-security and technology-related literature.<br>
  Enjoys writing for the sheer enjoyment it brings, exploring various topics beyond professional pursuits.
