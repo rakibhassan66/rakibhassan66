@@ -12,32 +12,30 @@
 <div align="center">
 <div align="center">
   
+ <div align="center">
   # 💫 About Me:
-  
-  <!-- Cyber Security Specialist -->
-  <img src="https://example.com/your-svg-icon.svg" alt="Cyber Security Specialist" width="30" height="30"/><br>
+  - 🛡️ **Cyber Security Specialist**<br>
   
   - Proficient in software, web, and game development.<br>
   
   - Expertise spans multiple programming languages:<br>
-    <img src="https://example.com/java-icon.svg" alt="Java" width="40" height="40"/>  
-    <img src="https://example.com/python-icon.svg" alt="Python" width="40" height="40"/>  
-    <img src="https://example.com/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/>  
-    <img src="https://example.com/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>  
+    - ☕ Java  
+    - 🐍 Python  
+    - 📓 Jupyter  
+    - 🌐 JavaScript  
 
   - Currently mastering Reverse Engineering.<br>
   
   - Specializations:<br>
-    <img src="https://example.com/reverse-shell-icon.svg" alt="Reverse Shell" width="40" height="40"/> Reverse Shell user<br>
-    <img src="https://example.com/bug-hunting-icon.svg" alt="Bug Hunting" width="40" height="40"/> Bug Hunting<br>
-    <img src="https://example.com/pen-tester-icon.svg" alt="Pen Tester" width="40" height="40"/> Pen tester<br>
-    <img src="https://example.com/web-flow-defender-icon.svg" alt="Web Flow Defender" width="40" height="40"/> Web flow defender<br>
+    - 🔄 Reverse Shell user<br>
+    - 🐞 Bug Hunting<br>
+    - 🛡️ Pen tester<br>
+    - 🌐 Web flow defender<br>
   
   📚 **Hobbies and Interests:**<br>
-  <img src="https://example.com/reading-icon.svg" alt="Reading" width="30" height="30"/> Passionate reader, particularly interested in cyber-security and technology-related literature.<br>
-  <img src="https://example.com/writing-icon.svg" alt="Writing" width="30" height="30"/> Enjoys writing for the sheer enjoyment it brings, exploring various topics beyond professional pursuits.
+  - 📖 Passionate reader, particularly interested in cyber-security and technology-related literature.<br>
+  - ✍️ Enjoys writing for the sheer enjoyment it brings, exploring various topics beyond professional pursuits.
 </div>
-
 
 
 # 📊 GitHub Stats:
