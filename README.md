@@ -10,29 +10,34 @@
 <div align="center">
 
 <div align="center">
+<div align="center">
+  
   # 💫 About Me:
-  - ![Cyber Security Specialist](https://img.shields.io/badge/Cyber%20Security%20Specialist-%E2%9A%94%EF%B8%8F-red?style=for-the-badge&logo=security&logoColor=white)<br>
+  
+  <!-- Cyber Security Specialist -->
+  <img src="https://example.com/your-svg-icon.svg" alt="Cyber Security Specialist" width="30" height="30"/><br>
   
   - Proficient in software, web, and game development.<br>
   
   - Expertise spans multiple programming languages:<br>
-    - <i class="fab fa-java" style="font-size: 20px;"></i> Java  
-    - <i class="fab fa-python" style="font-size: 20px;"></i> Python  
-    - <i class="fab fa-jupyter" style="font-size: 20px;"></i> Jupyter  
-    - <i class="fab fa-js" style="font-size: 20px;"></i> JavaScript  
+    <img src="https://example.com/java-icon.svg" alt="Java" width="40" height="40"/>  
+    <img src="https://example.com/python-icon.svg" alt="Python" width="40" height="40"/>  
+    <img src="https://example.com/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/>  
+    <img src="https://example.com/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>  
 
   - Currently mastering Reverse Engineering.<br>
   
   - Specializations:<br>
-    - <i class="fas fa-sync-alt" style="font-size: 20px;"></i> Reverse Shell user<br>
-    - <i class="fas fa-bug" style="font-size: 20px;"></i> Bug Hunting<br>
-    - <i class="fas fa-shield-alt" style="font-size: 20px;"></i> Pen tester<br>
-    - <i class="fas fa-network-wired" style="font-size: 20px;"></i> Web flow defender<br>
+    <img src="https://example.com/reverse-shell-icon.svg" alt="Reverse Shell" width="40" height="40"/> Reverse Shell user<br>
+    <img src="https://example.com/bug-hunting-icon.svg" alt="Bug Hunting" width="40" height="40"/> Bug Hunting<br>
+    <img src="https://example.com/pen-tester-icon.svg" alt="Pen Tester" width="40" height="40"/> Pen tester<br>
+    <img src="https://example.com/web-flow-defender-icon.svg" alt="Web Flow Defender" width="40" height="40"/> Web flow defender<br>
   
   📚 **Hobbies and Interests:**<br>
-  - <i class="fas fa-book" style="font-size: 20px;"></i> Passionate reader, particularly interested in cyber-security and technology-related literature.<br>
-  - <i class="fas fa-pencil-alt" style="font-size: 20px;"></i> Enjoys writing for the sheer enjoyment it brings, exploring various topics beyond professional pursuits.
+  <img src="https://example.com/reading-icon.svg" alt="Reading" width="30" height="30"/> Passionate reader, particularly interested in cyber-security and technology-related literature.<br>
+  <img src="https://example.com/writing-icon.svg" alt="Writing" width="30" height="30"/> Enjoys writing for the sheer enjoyment it brings, exploring various topics beyond professional pursuits.
 </div>
+
 
 
 # 📊 GitHub Stats:
