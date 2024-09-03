@@ -10,26 +10,32 @@
 <div align="center">
 
 # 💫 About Me:
-![Cyber Security Specialist](https://img.shields.io/badge/Cyber%20Security%20Specialist-%E2%9A%94%EF%B8%8F-red?style=for-the-badge&logo=security&logoColor=white)<br>
-- Proficient in software, web, and game development.<br>
-- Expertise spans multiple programming languages:<br>
-   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
- ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-- Currently mastering Reverse Engineering.<br>
-- Specializations:<br>
-    Reverse Shell user<br>
-    Bug Hunting<br>
-    Pen tester<br>
-    Web flow defender<br>
+<div align="center">
+  # 💫 About Me:
+  ![Cyber Security Specialist](https://img.shields.io/badge/Cyber%20Security%20Specialist-%E2%9A%94%EF%B8%8F-red?style=for-the-badge&logo=security&logoColor=white)<br>
+  
+  - Proficient in software, web, and game development.<br>
+  
+  - Expertise spans multiple programming languages:<br>
+     ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+     ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+     ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
+     ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 
-
-📚 **Hobbies and Interests:**<br>
- Passionate reader, particularly interested in cyber-security and technology-related literature.<br>
- Enjoys writing for the sheer enjoyment it brings, exploring various topics beyond professional pursuits.
-
+  - Currently mastering Reverse Engineering.<br>
+  
+  - Specializations:<br>
+    ![Reverse Shell](https://img.shields.io/badge/Reverse%20Shell-%23F76C6C.svg?style=for-the-badge&logo=linux&logoColor=white)  
+    ![Bug Hunting](https://img.shields.io/badge/Bug%20Hunting-%23FF6F61.svg?style=for-the-badge&logo=bug&logoColor=white)  
+    ![Pen Tester](https://img.shields.io/badge/Pen%20Tester-%23D81B60.svg?style=for-the-badge&logo=security&logoColor=white)  
+    ![Web Flow Defender](https://img.shields.io/badge/Web%20Flow%20Defender-%23AB47BC.svg?style=for-the-badge&logo=web&logoColor=white)<br>
+  
+  📚 **Hobbies and Interests:**<br>
+  ![Reading](https://img.shields.io/badge/Reading-%23FFC107.svg?style=for-the-badge&logo=book&logoColor=white)  
+  ![Writing](https://img.shields.io/badge/Writing-%23FF5722.svg?style=for-the-badge&logo=edit&logoColor=white)  
+  Enjoys exploring various topics beyond professional pursuits.
 </div>
+
 
 # 📊 GitHub Stats:
 <div align="center">
