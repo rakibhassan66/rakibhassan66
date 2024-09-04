@@ -40,12 +40,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-
-
-![](https://github-readme-stats.vercel.app/api?username=rakibhassan66&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rakibhassan66&theme=blue-green&hide_border=true)<br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhassan66&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&count=30)](https://github-readme-stats.vercel.app/api/top-langs?username=rakibhassan66&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=react&hide_border=true&order=2)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibhassan66)](https://github.com/rakibhassan66/github-readme-stats)
 </div>
 
 ## 🌐 Socials:
