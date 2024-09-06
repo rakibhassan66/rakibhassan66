@@ -10,6 +10,11 @@
  <div align="center">
 
 # 📊 GitHub Stats:
+
+
+![](https://github-readme-stats.vercel.app/api?username=rakibhassan66&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rakibhassan66&theme=blue-green&hide_border=true)<br/>
+
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibhassan66&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=20&theme=react&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
@@ -42,8 +47,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rakibhassan9"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rakibhassan9" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhassan66&" alt="rakibhassan66" /></p>
-
-
 </div>
