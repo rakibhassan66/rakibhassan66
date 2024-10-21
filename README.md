@@ -14,7 +14,6 @@
 
   <a href="https://www.github.com/rakibhassan66" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/rakibhassan66?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" />
-    <img https://github-readme-stats.vercel.app/api/top-langs?<p>username=rakibhassan66&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=react&hide_border=true&order=2 />
   </a>
   
 
@@ -40,6 +39,7 @@
 <div align="center">
   <a href="https://www.github.com/rakibhassan66" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+     <img https://github-readme-stats.vercel.app/api/top-langs?<p>username=rakibhassan66&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=react&hide_border=true&order=2 />
   </a>
 </div>
 
