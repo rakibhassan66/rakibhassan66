@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/followers/rakibhassan66?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" />
   </a>
   
-  https://github-readme-stats.vercel.app/api/top-langs?username=rakibhassan66&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=react&hide_border=true&order=2
+  https://github-readme-stats.vercel.app/api/top-langs?<p>username=rakibhassan66&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=react&hide_border=true&order=2</p>
 
 </div>
 
