@@ -45,9 +45,9 @@
 ---
 
 ### Badges
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center">
 
+<div align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibhassan66)](https://github.com/rakibhassan66/github-readme-stats)
   <a href="http://www.github.com/rakibhassan66">
     <img src="https://github-readme-stats.vercel.app/api?username=rakibhassan66&show_icons=true&hide=commits,issues,&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="rakibhassan66's GitHub stats" />
   </a>
