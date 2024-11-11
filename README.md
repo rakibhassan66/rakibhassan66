@@ -4,8 +4,6 @@
   <h1 align="center">
           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey%2C+This+is+Rakib+Hassan" alt="Typing SVG" /></a>
   </h1>
-
-  # Hi, My name is Deabrat
   
   **CCNA | Security Analyst | Software Game & WEB Developer | Network Engineer**
 
