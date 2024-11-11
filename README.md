@@ -5,7 +5,7 @@
           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey%2C+This+is+Rakib+Hassan" alt="Typing SVG" /></a>
   </h1>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rakibhassan66/rakibhassan66/output/github-contribution-grid-snake-dark.svg"><img src="https://raw.githubusercontent.com/ShrekBytes/ShrekBytes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%;"></a>
-  **CCNA | Security Analyst | Software Game & WEB Developer | Network Engineer**
+  CCNA | Security Analyst | Software Game & WEB Developer | Network Engineer
 
   Yearning to gaze upon her before I sleep forever to feel the reality of our love beyond dreams. _Farha_
 
